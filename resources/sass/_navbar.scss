@@ -1,0 +1,17 @@
+.navbar-wrapper{
+    background-color: #fff;
+}
+.navbar{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    height: 84px;
+    position: relative;
+    @media (max-width:768px) {
+        justify-content: center;
+    }
+}
+.navbar-brand{
+    display: flex;
+    align-items: center;
+}
