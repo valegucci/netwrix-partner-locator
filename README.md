@@ -1,5 +1,5 @@
 ## Netwrix Partner Locator - Laravel + Vue + Sass
-Parners archive is done with some of the most popular frameworks: Laravel, Vue, Sass
+Parners archive is done by using some of the most popular frameworks: Laravel, Vue, Sass
 
 ### How to Install
 1. Create a database and upload the project DB dump to it. 
